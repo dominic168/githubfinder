@@ -1,4 +1,4 @@
-The purpose of this project was to learn, implement and use for reference React hooks and context.  
+The purpose of this project was to learn, implement and use for reference a flux pattern. This done using React hooks and context api.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
