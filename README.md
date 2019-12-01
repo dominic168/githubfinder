@@ -1,3 +1,5 @@
+The purpose of this project was to learn, implement and use for reference React hooks and context.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
